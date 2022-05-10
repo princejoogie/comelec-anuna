@@ -1,0 +1,272 @@
+{
+  "positionName": "President",
+  "contestDetail": "PRESIDENT PHILIPPINES",
+  "locationCode": 1,
+  "locationName": "PHILIPPINES",
+  "contestLocationName": "PHILIPPINES",
+  "result": [
+    {
+      "rank": "1",
+      "candidateCode": "00199000MARCOS00BONGBONG00PFP0",
+      "candidateName": "MARCOS, BONGBONG",
+      "lastName": "MARCOS",
+      "firstName": "BONGBONG",
+      "partyName": "PARTIDO FEDERAL NG PILIPINAS",
+      "partyNameShort": "PFP",
+      "voteCount": 30922344,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "2",
+      "candidateCode": "00199000ROBREDO00LENI00IND0",
+      "candidateName": "ROBREDO, LENI",
+      "lastName": "ROBREDO",
+      "firstName": "LENI",
+      "partyName": "INDEPENDENT",
+      "partyNameShort": "IND",
+      "voteCount": 14743588,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "3",
+      "candidateCode": "00199000PACQUIAO00MANNY0PACMAN0PROMDI0",
+      "candidateName": "PACQUIAO, MANNY PACMAN",
+      "lastName": "PACQUIAO",
+      "firstName": "MANNY PACMAN",
+      "partyName": "PROGRESIVE MOVEMENT FOR THE DEVOLUTION OF INITIATIVES",
+      "partyNameShort": "PROMDI",
+      "voteCount": 3611977,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "4",
+      "candidateCode": "00199000DOMAGOSO00ISKO0MORENO00AKSYON0",
+      "candidateName": "DOMAGOSO, ISKO MORENO",
+      "lastName": "DOMAGOSO",
+      "firstName": "ISKO MORENO",
+      "partyName": "AKSYON DEMOKRATIKO",
+      "partyNameShort": "AKSYON",
+      "voteCount": 1875847,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "5",
+      "candidateCode": "00199000LACSON00PING00PDR0",
+      "candidateName": "LACSON, PING",
+      "lastName": "LACSON",
+      "firstName": "PING",
+      "partyName": "PARTIDO PARA SA DEMOKRATIKONG  REPORMA",
+      "partyNameShort": "PDR",
+      "voteCount": 878639,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "6",
+      "candidateCode": "00199000MANGONDATO00FAISAL00KTPNAN0",
+      "candidateName": "MANGONDATO, FAISAL",
+      "lastName": "MANGONDATO",
+      "firstName": "FAISAL",
+      "partyName": "KATIPUNAN PARTY",
+      "partyNameShort": "KTPNAN",
+      "voteCount": 248402,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "7",
+      "candidateCode": "00199000ABELLA00ERNIE00IND0",
+      "candidateName": "ABELLA, ERNIE",
+      "lastName": "ABELLA",
+      "firstName": "ERNIE",
+      "partyName": "INDEPENDENT",
+      "partyNameShort": "IND",
+      "voteCount": 112722,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "8",
+      "candidateCode": "00199000DE0GUZMAN00LEODY00PLM0",
+      "candidateName": "DE GUZMAN, LEODY",
+      "lastName": "DE GUZMAN",
+      "firstName": "LEODY",
+      "partyName": "PARTIDO LAKAS NG MASA",
+      "partyNameShort": "PLM",
+      "voteCount": 91669,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "9",
+      "candidateCode": "00199000GONZALES00NORBERTO00PDSP0",
+      "candidateName": "GONZALES, NORBERTO",
+      "lastName": "GONZALES",
+      "firstName": "NORBERTO",
+      "partyName": "PARTIDO DEMOKRATIKO SOSYALISTA NG PILIPINAS",
+      "partyNameShort": "PDSP",
+      "voteCount": 88489,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    },
+    {
+      "rank": "10",
+      "candidateCode": "00199000MONTEMAYOR00JOSE0JR000DPP0",
+      "candidateName": "MONTEMAYOR, JOSE JR.",
+      "lastName": "MONTEMAYOR",
+      "firstName": "JOSE JR.",
+      "partyName": "DEMOCRATIC PARTY OF THE PHILIPPINES",
+      "partyNameShort": "DPP",
+      "voteCount": 59649,
+      "contestCode": "00199000",
+      "locationCode": 1,
+      "locationName": "PHILIPPINES",
+      "er": {
+        "count": 105191,
+        "total": 107785,
+        "percentage": 97.59
+      },
+      "voter": {
+        "count": 54864213,
+        "total": 67442616,
+        "percentage": 81.3495,
+        "actualCount": 52633326
+      },
+      "timestamp": "2022-05-10T05:32:00.000Z"
+    }
+  ],
+  "isFeedZero": false,
+  "er": {
+    "count": 105191,
+    "total": 107785,
+    "percentage": 97.59
+  },
+  "voter": {
+    "count": 54864213,
+    "total": 67442616,
+    "percentage": 81.3495,
+    "actualCount": 52633326
+  },
+  "timestamp": "2022-05-10T05:32:00.000Z"
+}
